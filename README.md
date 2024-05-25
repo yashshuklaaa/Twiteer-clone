@@ -1,21 +1,22 @@
 # Social Media Backend
 
-This project is a backend implementation for a social media-like application, providing functionalities such as user authentication, post interactions (like, unlike, comment), and social interactions (follow, unfollow).
+This project is a backend implementation Twiter application, providing functionalities such as user authentication, post interactions (like, unlike, comment), and social interactions (follow, unfollow).
 
 ## Tech Stack
+-**ExpressJs**
+-**MongoDb**
+-**Postman.api**
+- **bcryptjs**
+- **cloudinary**
+- **cookie-parser**
+- **cors**
+- **dotenv**
+- **jsonwebtoken**
 
-- **bcryptjs**: ^2.4.3
-- **cloudinary**: ^2.2.0
-- **cookie-parser**: ^1.4.6
-- **cors**: ^2.8.5
-- **dotenv**: ^16.4.5
-- **express**: ^4.19.2
-- **jsonwebtoken**: ^9.0.2
-- **mongoose**: ^8.3.4
 
 ### Development Dependencies
 
-- **nodemon**: ^3.1.0
+- **nodemon**
 
 ## Features
 
@@ -39,7 +40,7 @@ This project is a backend implementation for a social media-like application, pr
 
 ### Prerequisites
 
-- Node.js (>= 12.x)
+- Node.js
 - MongoDB
 
 ### Installation
@@ -47,5 +48,5 @@ This project is a backend implementation for a social media-like application, pr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/yashshuklaaa/Twiteer-clone
    cd your-repository
