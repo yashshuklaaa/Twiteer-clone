@@ -1,13 +1,3 @@
-// import React from 'react'
-
-// const Post = () => {
-//   return (
-// 	<div>Post</div>
-//   )
-// }
-
-// export default Post
-
 
 import { FaRegComment , FaTrash} from "react-icons/fa";
 import { BiRepost } from "react-icons/bi";
