@@ -8,7 +8,6 @@ import connectMongoDB from "./db/connectMongoDB.js";
 import postRoutes from "./routes/post.routes.js";
 import notificationRoutes from "./routes/notification.route.js";
 
-dotenv.config();
 
 const app = express();
 
